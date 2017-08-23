@@ -1,0 +1,12 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;;
+}
+
+.navbar-brand,
+.card-title{
+    font-family: 'Lobster', cursive;
+}
